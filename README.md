@@ -80,9 +80,11 @@ After a bit of coding, setting up a developer account with apple and getting des
 
 It’s been a few weeks now that Grouppic is out. This app empowers users to easily combine group photos and selfies to create a final image in which everyone is present. I hope you find it as useful and fun as I do!
 
-<a href="https://apps.apple.com/fr/app/grouppic/id1636206323?l=en-GB">
-  <img src="./visuals/app_store.png" alt="App Store logo, click to download Grouppic" width="200" />
-</a>
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://apps.apple.com/fr/app/grouppic/id1636206323?l=en-GB">
+    <img src="./visuals/app_store.png" alt="App Store logo, click to download Grouppic" width="200"/>
+  </a>
+</div>
 
 I hope you enjoyed reading this post as much as I enjoyed designing this app!
 
