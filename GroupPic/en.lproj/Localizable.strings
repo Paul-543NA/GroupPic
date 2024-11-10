@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  GroupPic
+
+  Created by Paul Festor on 24/07/2022.
+  
+*/
+"welcome" = "Welcome to Grouppic!";
+"onboarding_1" = "1. Take a picture of your group";
+"onboarding_2" = "2. Take a selfie of yourself";
+"onboarding_3" = "3. Adjust the final shot";
+"onboarding_4" = "Get started";
+"save photo" = "Save";
+"saved" = "Photo saved!";
+"privacy_policy" = "This app does not collect any data, see our [Privacy Policy](https://sites.google.com/view/grouppic/home/privacy-policy?authuser=0)";
+"settings" = "Settings";
+"done" = "Done";
+"auto_scaling" = "Automatic face sizing";
+"auto_scaling_desc" = "Automatically scales your selfie to match your face's size with the group photo.";
+
